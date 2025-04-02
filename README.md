@@ -1,6 +1,11 @@
-# Bronx-Housing
+# Bronx Housing
 
-This project, in partnership with Women's Housing and Economic Development Corporation (WHEDco), looks at the housing demographics of three Bronx neighborhoods. Characteristics such as income, race, overcrowding, and eviction rates were analyzed for three community districts in the Bronx. 
+This project, in partnership with Women's Housing and Economic Development Corporation (WHEDco), looks at the housing demographics of three Bronx neighborhoods. Characteristics such as income, race, overcrowding, and eviction rates were analyzed for three community districts in the Bronx. Data was collected from Census and NYC Open Data. This project's purpose was to better understand the housing landscape of 3 Bronx communities, in which WHEDco has affordable housing developments, and further inform future policies. 
+
+# Libraries Used
+
+`tidyverse`
+`ggplot2`
 
 # Household Occupancy
 
